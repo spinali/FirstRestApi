@@ -93,10 +93,10 @@ This project was created as part of an academic exercise to learn how to work wi
    }
    ```
 
-5. **Delete a product**:
+5. **Delete a product with id 1**:
    Send a `DELETE` request to:
    ```bash
-   http://localhost:8080/api/v1/products/
+   http://localhost:8080/api/v1/products/1
    ```
 
 
